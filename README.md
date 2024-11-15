@@ -36,3 +36,6 @@ Languages:
 ## SOCIALS
 <p>These are my socials if you want to contact me:</p>
 <a href=https://www.linkedin.com/in/pau-sol%C3%A9-torralba-bb8b14176/><img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg height="40"></a>
+
+## STATS
+<img src="https://github-readme-stats.vercel.app/api?username=PauSolT&show_icons=true&theme=dark" width="400">
