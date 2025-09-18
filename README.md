@@ -28,10 +28,14 @@ Languages:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  
+</div>
+<p>I've made may own webpage using Astro: https://pausolt.github.io/</p>
+<p>But i also know React: https://pausolt.github.io/</p>
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
 </div>
-<p>I've made may own webpage using react: https://pausolt.github.io/</p>
 
 ## SOCIALS
 <p>These are my socials if you want to contact me:</p>
