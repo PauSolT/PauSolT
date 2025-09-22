@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Pau 👋
 
-My name is Pau Solé and I'm a Game and Web Developer.
+I'm a Game and Web Developer resided in Barcelona.
 
 ## Languages
 <div align="left">
@@ -30,3 +30,29 @@ My name is Pau Solé and I'm a Game and Web Developer.
 ## SOCIALS
 <p>These are my socials if you want to contact me:</p>
 <a href=https://www.linkedin.com/in/pau-sol%C3%A9-torralba-bb8b14176/><img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg height="40"></a>
+
+---
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=PauSolT&show_icons=true&bg_color=161b22&border_color=22222288&text_color=bbb"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=PauSolT&show_icons=true&bg_color=00000000&border_color=22222288&text_color=222"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=picuu&show_icons=true&bg_color=00000000&border_color=22222288&text_color=bbb" alt="GitHub Stats Card" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=picuu&layout=compact&bg_color=161b22&border_color=22222288&text_color=bbb"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=picuu&layout=compact&bg_color=00000000&border_color=22222288&text_color=222"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=picuu&layout=compact&bg_color=00000000&border_color=22222288&text_color=bbb" alt="Top Langs card" />
+</picture>
