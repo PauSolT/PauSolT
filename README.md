@@ -1,4 +1,6 @@
-## Hi there, I'm Pau 👋
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/480febc1-620a-4a4d-b329-a1279766df0a" />
+
+## 👋 Hi there, I'm Pau
 
 I'm a Game/Web/Software Developer resided in Barcelona.
 
