@@ -27,7 +27,6 @@ I'm a Game/Web/Software Developer resided in Barcelona.
 
 ## GAME DEVELOPMENT
 I've made some projects using Unity3D and Unreal Engine. These are some games that I made
------------------------
 
 [![Bilux](https://img.itch.zone/aW1nLzIxMTc3MjYucG5n/315x250%23c/FDWqhD.png)](https://drhut94.itch.io/bilux)
 [![Bekkus](https://img.itch.zone/aW1nLzM0MTA2MzcucG5n/315x250%23c/18uncr.png)](https://drhut94.itch.io/bekkus)
