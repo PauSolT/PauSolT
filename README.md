@@ -1,6 +1,6 @@
 <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/480febc1-620a-4a4d-b329-a1279766df0a" />
 
-## 👋 Hi there, I'm Pau
+# 👋 Hi there, I'm Pau
 
 I'm a Game/Web/Software Developer resided in Barcelona.
 
@@ -26,18 +26,20 @@ I'm a Game/Web/Software Developer resided in Barcelona.
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 
 ## GAME DEVELOPMENT
-<p>I've made some projects using Unity3D and Unreal Engine.</p>
-<p>These are some games that I made</p>
-<a target="_blank" href=https://drhut94.itch.io/bilux><img src=https://img.itch.zone/aW1nLzIxMTc3MjYucG5n/315x250%23c/FDWqhD.png></a>
-<a target="_blank" href=https://ottarastudio.itch.io/bekkus><img src=https://img.itch.zone/aW1nLzM0MTA2MzcucG5n/315x250%23c/18uncr.png ></a>
-<a target="_blank" href=https://pausol.itch.io/star-taps><img src=https://img.itch.zone/aW1nLzU5MjI4NDcuanBn/315x250%23c/ih5pGx.jpg></a>
+I've made some projects using Unity3D and Unreal Engine. These are some games that I made
+-----------------------
+
+[![Bilux](https://img.itch.zone/aW1nLzIxMTc3MjYucG5n/315x250%23c/FDWqhD.png)](https://drhut94.itch.io/bilux)
+[![Bekkus](https://img.itch.zone/aW1nLzM0MTA2MzcucG5n/315x250%23c/18uncr.png)](https://drhut94.itch.io/bekkus)
+[![Star taps](https://img.itch.zone/aW1nLzU5MjI4NDcuanBn/315x250%23c/ih5pGx.jpg)](https://pausol.itch.io/star-taps)
+
 
 ## WEB DEVELOPMENT
-<p>I've made may own webpage using Astro: https://pausolt.github.io/</p>
+I've made may own webpage using Astro: https://pausolt.github.io/
 
 ## SOCIALS
-<p>These are my socials if you want to contact me:</p>
-<a href=https://www.linkedin.com/in/pau-sol%C3%A9-torralba-bb8b14176/><img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg height="40"></a>
+These are my socials if you want to contact me
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/pau-sol%C3%A9-torralba-bb8b14176/)
 
 ---
 
